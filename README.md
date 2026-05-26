@@ -24,7 +24,7 @@ This project demonstrates AWS Identity and Access Management (IAM) by creating u
 ### IAM Groups
 ![Groups](screenshots/IAM_groups.png)
 
-### MFA Enables
+### MFA Enabled
 ![MFA](screenshots/Admin_user_MFA_enabled.png)
 
 
