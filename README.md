@@ -30,3 +30,9 @@ This project demonstrates AWS Identity and Access Management (IAM) by creating u
 
 ### Permission Denied (Developer User)
 ![Denied](screenshots/permission_denied.png)
+
+## Challenges Encountered
+- Difficulty locating the correct AWS managed policy (ReadOnlyAccess) due to multiple similar policy names.
+- Understanding the difference between viewing and performing actions in IAM permissions.
+- Initial confusion when both users appeared to have similar dashboard access.
+
