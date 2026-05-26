@@ -18,3 +18,9 @@ Two users were created to demonstrate different levels of AWS access control.
 ## Result
 ### IAM users
 ![Users](screenshots/IAM_users.png)
+
+### Admin user permission
+![Users](screenshots/admin_user_permission.png)
+
+### Developer user permission
+![Users](screenshots/developer_user_permission.png)
